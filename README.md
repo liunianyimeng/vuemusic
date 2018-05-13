@@ -1,6 +1,6 @@
-# vuemusic
 
 > 音乐播放器
+[demo](http://keivin.top/vuemusic/dist/index.html)
 
 ## Build Setup
 
